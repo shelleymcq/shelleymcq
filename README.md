@@ -8,4 +8,3 @@ I'm Shelley McHardy!
 📫 How to reach me: shelleymcq.dev@gmail.com
 👩‍🦰 Pronouns: she/her
 🏝️ Fun fact: I've played over 1300 hours of Animal Crossing New Horizons
-  
