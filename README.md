@@ -3,7 +3,7 @@
 I'm Shelley McHardy!
 
 - 👷‍♀️ I’m working on my fullstack certification at Georgia Tech
-- 📚 I’m currently learning node.js
+- 📚 I’m currently learning MySQL
 - 🧪 Ask me about chemistry
 - 📫 How to reach me: shelleymcq.dev@gmail.com
 - 👩‍🦰 Pronouns: she/her
