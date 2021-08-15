@@ -2,7 +2,7 @@
 
 I'm Shelley McHardy!
 
-- 👷‍♀️ I’m working on my fullstack certification at Georgia Tech
+- 👷‍♀️ I’m working on my full stack certification at Georgia Tech
 - 📚 I’m currently learning sequelize & handlebars
 - 🧪 Ask me about chemistry
 - 📫 How to reach me: shelleymcq.dev@gmail.com
