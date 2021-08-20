@@ -3,7 +3,7 @@
 I'm Shelley McHardy!
 
 - 👷‍♀️ I’m working on my full stack certification at Georgia Tech
-- 📚 I’m currently learning sequelize & handlebars
+- 📚 I’m currently learning NoSQL and MongoDB
 - 🧪 Ask me about chemistry
 - 📫 How to reach me: shelleymcq.dev@gmail.com
 - 👩‍🦰 Pronouns: she/her
