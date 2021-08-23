@@ -10,4 +10,6 @@ I'm Shelley McHardy!
 - 🏝️ Fun fact: I've played over 1400 hours of Animal Crossing New Horizons
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shelleymcq)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shelleymcq)](https://github.com/anuraghazra/github-readme-stats)
+
 
