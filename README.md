@@ -3,7 +3,7 @@ I'm Shelley McHardy! Check out my portfolio at https://shelleymcq.github.io/Upda
 
 - 👩‍🦰 Pronouns: she/her
 - 📫 How to reach me: shelleymcq.dev@gmail.com
-- 👷‍♀️ I’m working on my full stack certification at Georgia Tech
+- 👷‍♀️ I’m working on my full stack certificate at Georgia Tech
 - 📚 I’m currently learning MongoDB and Mongoose
 - 🧪 Ask me about chemistry
 - 🏝️ Fun fact: I've played over 1400 hours of Animal Crossing New Horizons
