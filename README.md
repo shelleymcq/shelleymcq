@@ -5,7 +5,7 @@ Hi, I'm Shelley!
 - 👷‍♀️ I just completed my full stack certificate at Georgia Tech
 - 👩‍🦰 Pronouns: she/her
 - 📫 You can email me at shelleymcq.dev@gmail.com
-- 📚 I’m currently learning React and Java
+- 📚 I’m currently learning React
 - 🧪 Ask me about chemistry
 - 🧶 Fun fact: I learned how to crochet this summer
 
