@@ -5,7 +5,7 @@ Hi, I'm Shelley!
 - 👷‍♀️ I just completed an apprenticeship program with the Collab Lab, https://the-collab-lab.codes/
 - 👩‍🦰 Pronouns: she/her
 - 📫 You can email me at shelleymcq.dev@gmail.com
-- 📚 I’m currently learning Vue
+- 📚 I’m currently learning React
 - 🧪 Ask me about chemistry
 - 🧶 Fun fact: I learned how to crochet last summer
 
