@@ -2,7 +2,7 @@
 
 Hi, I'm Shelley! 
 
-- 👷‍♀️ I just completed an apprenticeship program with the Collab Lab, https://the-collab-lab.codes/
+- 👷‍♀️ I just started a new job as an Associate Software Developer!
 - 👩‍🦰 Pronouns: she/her
 - 📫 You can email me at shelleymcq.dev@gmail.com
 - 📚 I’m currently learning React
