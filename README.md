@@ -7,7 +7,6 @@ Hi, I'm Shelley!
 - 📫 You can email me at shelleymcq.dev@gmail.com
 - 📚 I’m currently learning Redux & TypeScript
 - 🧪 Ask me about chemistry
-- 🧶 Fun fact: I learned how to crochet last summer
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shelleymcq)](https://github.com/anuraghazra/github-readme-stats)
