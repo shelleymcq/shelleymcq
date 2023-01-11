@@ -2,10 +2,10 @@
 
 Hi, I'm Shelley! 
 
-- 👷‍♀️ Associate Software Developer in eCommerce
+- 👷‍♀️ Associate Software Developer
 - 👩‍🦰 Pronouns: she/her
 - 📫 You can email me at shelleymcq.dev@gmail.com
-- 📚 I’m currently learning React & TypeScript
+- 📚 I’m currently learning Cypress & NextJS
 - 🧪 Ask me about chemistry
 - 🙋 Volunteer at [Virtual Coffee](https://virtualcoffee.io) and [The Collab Lab](https://the-collab-lab.codes)
 
