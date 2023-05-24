@@ -5,7 +5,7 @@ Hi, I'm Shelley!
 - 👷‍♀️ Associate Software Developer
 - 👩‍🦰 Pronouns: she/her
 - 📫 You can email me at shelleymcq.dev@gmail.com
-- 📚 I’m currently learning Vue 3 & 'battling' in Lighthall's Software Engineering Super League! 
+- 📚 I’m currently learning cypress
 - 🧪 Ask me about chemistry
 - 🙋 Volunteer at [Virtual Coffee](https://virtualcoffee.io) and [The Collab Lab](https://the-collab-lab.codes)
 
