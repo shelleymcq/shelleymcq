@@ -2,7 +2,7 @@
 
 Hi, I'm Shelley! 
 
-- 👷‍♀️ Software Developer
+- 👩‍💻 Software Developer
 - 👩‍🦰 Pronouns: she/her
 - 📫 You can email me at shelleymcq.dev@gmail.com
 - 📚 I’m currently learning Cypress
